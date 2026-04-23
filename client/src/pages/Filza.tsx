@@ -26,7 +26,7 @@ export default function Filza() {
     <div className="w-full min-h-screen bg-background flex flex-col">
       {/* Header com botão de logout */}
       <div className="bg-card border-b border-border px-4 py-3 flex justify-between items-center">
-        <h1 className="text-lg font-semibold text-foreground">Filza File Manager</h1>
+        <h1 className="text-lg font-semibold text-foreground">INJETOR DE XIT</h1>
         <div className="flex items-center gap-4">
           <span className="text-sm text-muted-foreground">Bem-vindo, <span className="text-primary font-semibold">{username}</span></span>
           <button

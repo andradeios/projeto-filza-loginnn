@@ -22,7 +22,7 @@ const APPS: AppItem[] = [
   { id: '4', name: 'Telegram', size: 'Zero KB', icon: '/telegram.png' },
   { id: '5', name: 'Youtube', size: 'Zero KB', icon: '/youtube.png' },
   { id: '6', name: 'Pinterest', size: 'Zero KB', icon: '/pinterest.png' },
-  { id: '7', name: 'Atalhos', size: 'Zero KB', icon: '/atalhos.png' },
+  { id: '7', name: 'iFood', size: 'Zero KB', icon: '/ifood.png' },
   { id: '8', name: 'Notas', size: 'Zero KB', icon: '/notas.png' },
 
   { id: '9', name: 'Mail', size: '9.3 MB', icon: '/mail.png' },
