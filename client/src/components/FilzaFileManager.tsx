@@ -151,8 +151,12 @@ const renderIcon = (icon: string) => {
           <div className="flex flex-col min-h-[500px] p-6">
             {uploadedFiles.length === 0 ? (
               <div className="flex flex-col items-center justify-center flex-1 gap-6">
-                <div className="text-7xl">🔥</div>
-                <h2 className="text-2xl font-bold">Free Fire</h2>
+                <img 
+    src="freefire.png" 
+    alt="Logo Free Fire" 
+    className="w-24 h-24 object-contain shadow-lg rounded-2xl" 
+  />
+                <h2 className="text-3xl font-bold">Free Fire</h2>
                 <p className="text-muted-foreground text-center text-sm">
                   Pasta vazia. Adicione arquivos para começar.
                 </p>
